@@ -37,7 +37,7 @@ counter++;
 		        System.out.println("The number of positives is " +positive );
 		        System.out.println("The number of negatives is " +negative);
 		        System.out.println("Total even numbers entered is " + even);
-		        System.out.println("Total odd entered is " + odd);
+		        System.out.println("Total odd numbers entered is " + odd);
 		        System.out.println("The total is " +sum);
 		        System.out.println("The average value is: " + average);
 		   
